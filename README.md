@@ -29,3 +29,7 @@ Well I have indeed seen you soon, since I've found many interesting things to do
 ## Convolution
 
 Let's try.
+
+We did. WE HATED IT. But we made it work. By we I mean I. Cuz Y'ALL DIDN'T SUFFER AND I DID. SO ENJOY MY GREATLY TEARED WORK.
+
+So it is a Convolutional Neural Network that was supposed to have two layers but got one and I don't know if I'll ever upgrade her. I am dead. Sisyphus.
